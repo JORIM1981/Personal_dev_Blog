@@ -8,7 +8,7 @@
 ## Description
 This  is a flask application that allows users to post, edit and delete blogs. A user must signup to be able to access the functionalities of the application.
 
-You can view the site at:[Heroku](https://jorim-pitch.herokuapp.com/)
+You can view the site at:[Heroku](https://jorim-personal-dev-blog.herokuapp.com/)
 
 
 ## Screenshot
