@@ -10,6 +10,11 @@ This  is a flask application that allows users to post, edit and delete blogs. A
 
 You can view the site at:[Heroku](https://jorim-pitch.herokuapp.com/)
 
+
+## Screenshot
+![Personal-dev-Blog](https://github.com/JORIM1981/Personal_dev_Blog/commit/2332dc49d0ae760ef709129a8f2eed886a9c3f46#diff-b6fd8ec65602432cd482bb8400b55180)
+
+
 ## User Stories
 These are the behaviours/features that the application implements depending on the selection made by a user.
 
