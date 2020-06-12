@@ -4,7 +4,7 @@ from app.models import User
 
 class UserTest(unittest.TestCase):
     def setUp(self):
-        self.new_user = User(username='midumbi'email = "test@test.com" bio ='default bio',password='moringa81')
+        self.new_user = User(username='midumbi'email = "midumbi.webdev@gmail.com" bio ='default bio',password='moringa81')
 
     def test_password_setter(self):
         self.assertTrue(self.new_user.password is not None)
