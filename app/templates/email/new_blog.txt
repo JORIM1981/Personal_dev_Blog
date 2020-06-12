@@ -6,4 +6,4 @@ Title: {{blog.title}}
 Post: {{blog.content}}
 
 Regards,
-Personal-dev-Blog - Personal-dev-Blog Management
+Personal-dev-Blog Management
